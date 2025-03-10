@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "AlgorithmChallenges\Test.csproj", "{DA79B872-A9AB-497D-BCB5-5C2ABDFC7831}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{4FB92183-185B-4E3F-9BD1-6429A5F07F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{03EB3D1D-13A5-4DBB-9455-29B55988279B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA79B872-A9AB-497D-BCB5-5C2ABDFC7831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA79B872-A9AB-497D-BCB5-5C2ABDFC7831}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA79B872-A9AB-497D-BCB5-5C2ABDFC7831}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA79B872-A9AB-497D-BCB5-5C2ABDFC7831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EB3D1D-13A5-4DBB-9455-29B55988279B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EB3D1D-13A5-4DBB-9455-29B55988279B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EB3D1D-13A5-4DBB-9455-29B55988279B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EB3D1D-13A5-4DBB-9455-29B55988279B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{03EB3D1D-13A5-4DBB-9455-29B55988279B} = {4FB92183-185B-4E3F-9BD1-6429A5F07F21}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E1819A1-42C2-4CB6-B3A8-9DDAFEB7954E}
