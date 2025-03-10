@@ -8,11 +8,12 @@
 		{
 			for (int i = 0; i < nums.Length; i++)
 			{
-				for (int j = 1; j < nums.Length; j++)
+				for (int j = i; j < nums.Length; j++)
 				{
-					var sum = nums[i] + nums[j];
+					var sum = nums[j] + nums[i];
+					var diffIndex = i != j;
 
-					if (sum == target)
+					if (sum == target && diffIndex)
 						return [i, j];
 				}
 			}

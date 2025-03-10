@@ -26,8 +26,8 @@ internal class Program
 {
 	private static void Main(string[] args)
 	{
-		int[] nums = [0, 7, 0, 1, 4];
-		int target = 9;
+		int[] nums = [2, 5, 5, 11];
+		int target = 10;
 
 		TwoSumChallenge twoSum = new TwoSumChallenge();
 
