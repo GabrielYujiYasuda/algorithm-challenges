@@ -27,7 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TwoSum",
+              "Title": "TwoSum.csproj",
               "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\TwoSum.csproj",
               "RelativeDocumentMoniker": "TwoSum\\TwoSum.csproj",
               "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\TwoSum.csproj",
@@ -40,7 +40,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PalindromeNum",
+              "Title": "PalindromeNum.csproj",
               "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNum.csproj",
               "RelativeDocumentMoniker": "PalindromeNum\\PalindromeNum.csproj",
               "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNum.csproj",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "PalindromeNum\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T00:37:51.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T00:37:51.425Z"
             }
           ]
         },
