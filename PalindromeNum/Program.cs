@@ -1,5 +1,4 @@
-﻿
-using PalindromeNum;
+﻿using PalindromeNum;
 
 PalindromeNumberChallenge pln = new PalindromeNumberChallenge();
 
