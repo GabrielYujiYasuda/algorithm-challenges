@@ -29,12 +29,10 @@ internal class Program
 		int[] nums = [2, 5, 5, 11];
 		int target = 10;
 
-		TwoSumChallenge twoSum = new TwoSumChallenge();
+		TwoSumChallenge twoSumChallenge = new TwoSumChallenge();
 
-		int[] result = twoSum.Execute(nums, target);
+		int[] result = twoSumChallenge.Execute(nums, target);
 
 		Array.ForEach(result, Console.WriteLine);
 	}
 }
-
-

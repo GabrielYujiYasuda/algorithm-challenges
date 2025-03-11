@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\bin\Debug\net8.0\PalindromeNum.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\bin\Debug\net8.0\PalindromeNum.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\bin\Debug\net8.0\PalindromeNum.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\bin\Debug\net8.0\PalindromeNum.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\bin\Debug\net8.0\PalindromeNum.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\refint\PalindromeNum.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\PalindromeNum.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNum\obj\Debug\net8.0\ref\PalindromeNum.dll

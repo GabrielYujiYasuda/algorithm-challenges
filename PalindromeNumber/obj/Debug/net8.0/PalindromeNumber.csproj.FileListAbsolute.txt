@@ -1,0 +1,10 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\bin\Debug\net8.0\PalindromeNumber.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\refint\PalindromeNumber.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\PalindromeNumber\obj\Debug\net8.0\PalindromeNumber.pdb
