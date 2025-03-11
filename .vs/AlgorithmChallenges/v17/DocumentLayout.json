@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\twosum\\twosum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\twosum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\palindromenum\\palindromenumberchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|solutionrelative:palindromenum\\palindromenumberchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\palindromenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|solutionrelative:palindromenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\twosum\\twosum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\twosum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\palindromenum\\palindromenum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PalindromeNumberChallenge.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNumberChallenge.cs",
+              "RelativeDocumentMoniker": "PalindromeNum\\PalindromeNumberChallenge.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNumberChallenge.cs",
+              "RelativeToolTip": "PalindromeNum\\PalindromeNumberChallenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:04:05.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TwoSum.csproj",
               "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\TwoSum.csproj",
               "RelativeDocumentMoniker": "TwoSum\\TwoSum.csproj",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PalindromeNum.csproj",
               "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNum.csproj",
               "RelativeDocumentMoniker": "PalindromeNum\\PalindromeNum.csproj",
@@ -60,7 +77,8 @@
               "RelativeToolTip": "PalindromeNum\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T00:37:51.425Z"
+              "WhenOpened": "2025-03-11T00:37:51.425Z",
+              "EditorCaption": ""
             }
           ]
         },
