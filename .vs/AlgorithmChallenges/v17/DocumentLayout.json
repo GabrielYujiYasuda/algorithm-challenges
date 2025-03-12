@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCountChallenge.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\maxcountchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCountChallenge.csproj|solutionrelative:maxcountchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\maxcountchallenge\\maxcountchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|solutionrelative:maxcountchallenge\\maxcountchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCountChallenge.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\maxcountchallenge\\maxcountchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCountChallenge.csproj|solutionrelative:maxcountchallenge\\maxcountchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\maxcountchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|solutionrelative:maxcountchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 129,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,31 +38,30 @@
               "RelativeToolTip": "ValidParentheses\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:09:11.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T22:09:11.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MaxCountChallenge.cs",
               "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\MaxCountChallenge.cs",
               "RelativeDocumentMoniker": "MaxCountChallenge\\MaxCountChallenge.cs",
               "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\MaxCountChallenge.cs",
               "RelativeToolTip": "MaxCountChallenge\\MaxCountChallenge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T22:05:43.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\Program.cs",
               "RelativeDocumentMoniker": "MaxCountChallenge\\Program.cs",
               "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\Program.cs",
               "RelativeToolTip": "MaxCountChallenge\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T22:03:32.018Z",
               "EditorCaption": ""
