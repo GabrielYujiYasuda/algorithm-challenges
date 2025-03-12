@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\bin\Debug\net8.0\ValidParentheses.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\bin\Debug\net8.0\ValidParentheses.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\bin\Debug\net8.0\ValidParentheses.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\bin\Debug\net8.0\ValidParentheses.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\bin\Debug\net8.0\ValidParentheses.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\refint\ValidParentheses.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ValidParentheses.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\ValidParentheses\obj\Debug\net8.0\ref\ValidParentheses.dll

@@ -2,6 +2,7 @@
 {
 	public class PalindromeNumberChallenge
 	{
+		// Verifiy if the input number is a palindrome
 		public bool Execute(int x)
 		{
 			//Complexity: O(n)

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\twosum\\twosumchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\twosumchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|solutionrelative:validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\twosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03EB3D1D-13A5-4DBB-9455-29B55988279B}|TwoSum\\TwoSum.csproj|solutionrelative:twosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\palindromenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|solutionrelative:palindromenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\palindromenum\\palindromenumberchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00412E70-54E2-4ACF-A31E-644617C2DCCD}|PalindromeNum\\PalindromeNum.csproj|solutionrelative:palindromenum\\palindromenumberchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\validparentheses\\validparentheseschallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|solutionrelative:validparentheses\\validparentheseschallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TwoSumChallenge.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\TwoSumChallenge.cs",
-              "RelativeDocumentMoniker": "TwoSum\\TwoSumChallenge.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\TwoSumChallenge.cs",
-              "RelativeToolTip": "TwoSum\\TwoSumChallenge.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBYAAAACAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ValidParentheses\\Program.cs",
+              "RelativeDocumentMoniker": "ValidParentheses\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ValidParentheses\\Program.cs",
+              "RelativeToolTip": "ValidParentheses\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T01:36:43.572Z",
+              "WhenOpened": "2025-03-11T21:53:27.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\Program.cs",
-              "RelativeDocumentMoniker": "TwoSum\\Program.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\TwoSum\\Program.cs",
-              "RelativeToolTip": "TwoSum\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAABAAAA",
+              "Title": "ValidParenthesesChallenge.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ValidParentheses\\ValidParenthesesChallenge.cs",
+              "RelativeDocumentMoniker": "ValidParentheses\\ValidParenthesesChallenge.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ValidParentheses\\ValidParenthesesChallenge.cs",
+              "RelativeToolTip": "ValidParentheses\\ValidParenthesesChallenge.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T01:36:36.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PalindromeNumberChallenge.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNumberChallenge.cs",
-              "RelativeDocumentMoniker": "PalindromeNum\\PalindromeNumberChallenge.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\PalindromeNumberChallenge.cs",
-              "RelativeToolTip": "PalindromeNum\\PalindromeNumberChallenge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T01:04:05.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\Program.cs",
-              "RelativeDocumentMoniker": "PalindromeNum\\Program.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\PalindromeNum\\Program.cs",
-              "RelativeToolTip": "PalindromeNum\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T00:37:51.425Z",
+              "WhenOpened": "2025-03-11T20:48:03.086Z",
               "EditorCaption": ""
             }
           ]
