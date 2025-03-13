@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\bin\Debug\net8.0\IsAnagram.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\bin\Debug\net8.0\IsAnagram.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\bin\Debug\net8.0\IsAnagram.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\bin\Debug\net8.0\IsAnagram.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\bin\Debug\net8.0\IsAnagram.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\refint\IsAnagram.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\IsAnagram.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\IsAnagram\obj\Debug\net8.0\ref\IsAnagram.dll

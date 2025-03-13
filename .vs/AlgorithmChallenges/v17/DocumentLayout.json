@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\",
+  "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\isanagram\\isanagramchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|solutionrelative:isanagram\\isanagramchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\containsduplicate\\containsduplicatechallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|solutionrelative:containsduplicate\\containsduplicatechallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\isanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|solutionrelative:isanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|solutionrelative:containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IsAnagramChallenge.cs",
-              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\IsAnagramChallenge.cs",
-              "RelativeDocumentMoniker": "IsAnagram\\IsAnagramChallenge.cs",
-              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\IsAnagramChallenge.cs",
-              "RelativeToolTip": "IsAnagram\\IsAnagramChallenge.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAQAAAAVAAAAAAAAAA==",
+              "Title": "ContainsDuplicateChallenge.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\ContainsDuplicateChallenge.cs",
+              "RelativeDocumentMoniker": "ContainsDuplicate\\ContainsDuplicateChallenge.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\ContainsDuplicateChallenge.cs",
+              "RelativeToolTip": "ContainsDuplicate\\ContainsDuplicateChallenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:39:00.922Z",
+              "WhenOpened": "2025-03-13T21:56:18.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\Program.cs",
-              "RelativeDocumentMoniker": "IsAnagram\\Program.cs",
-              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\Program.cs",
-              "RelativeToolTip": "IsAnagram\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\Program.cs",
+              "RelativeDocumentMoniker": "ContainsDuplicate\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\Program.cs",
+              "RelativeToolTip": "ContainsDuplicate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:38:33.975Z",
+              "WhenOpened": "2025-03-13T21:56:07.92Z",
               "EditorCaption": ""
             }
           ]
@@ -56,6 +56,14 @@
           "DockedWidth": 554,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -67,14 +75,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },
@@ -93,6 +93,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

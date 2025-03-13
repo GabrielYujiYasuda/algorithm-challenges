@@ -7,7 +7,6 @@
 			var numberOfNegative = 0;
 			var numberOfPositive = 0;
 
-			//[-3,-2,-1,0,0,1,2]
 			for (int i = 0; i < nums.Length; i++)
 			{
 				if (nums[i] < 0)

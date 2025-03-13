@@ -12,18 +12,21 @@
 			if (sSize != tSize)
 				return false;
 
-			for (int i = 0; i < s.Length; i++)
+
+			var sArr = s.ToArray();
+			var tArr = t.ToArray();
+
+			Array.Sort(sArr);
+			Array.Sort(tArr);
+
+			for (int i = 0; i < sArr.Length; i++)
 			{
-				for (int j = 0; j < s.Length; j++)
-				{
-					if (s[i].Equals(s[j]))
-					{
-						letterCount++;
-					}
-				}
+				if (sArr[i].Equals(tArr[i]))
+					letterCount++;
 			}
 
-			if (letterCount == sSize)
+
+			if (letterCount == sArr.Length)
 				return true;
 
 			return false;
