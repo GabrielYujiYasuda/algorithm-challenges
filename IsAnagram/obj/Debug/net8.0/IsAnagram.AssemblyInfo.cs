@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BubbleSort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("IsAnagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fbb766a5796fc9692ff0cab3ae418fe542fb85f")]
-[assembly: System.Reflection.AssemblyProductAttribute("BubbleSort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BubbleSort")]
+[assembly: System.Reflection.AssemblyProductAttribute("IsAnagram")]
+[assembly: System.Reflection.AssemblyTitleAttribute("IsAnagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

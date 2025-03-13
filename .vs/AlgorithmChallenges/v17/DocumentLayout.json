@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\maxcountchallenge\\maxcountchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|solutionrelative:maxcountchallenge\\maxcountchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\isanagram\\isanagramchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|solutionrelative:isanagram\\isanagramchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\maxcountchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31DBE45-0F1E-4A73-A768-6224B7E5CAB2}|MaxCountChallenge\\MaxCount.csproj|solutionrelative:maxcountchallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F077A4FA-BEA5-49D0-9248-CB38448A0D4A}|ValidParentheses\\ValidParentheses.csproj|solutionrelative:validparentheses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|c:\\users\\dti digital\\desktop\\nova pasta\\algorithm-challenges\\isanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|solutionrelative:isanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 129,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\ValidParentheses\\Program.cs",
-              "RelativeDocumentMoniker": "ValidParentheses\\Program.cs",
-              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\ValidParentheses\\Program.cs",
-              "RelativeToolTip": "ValidParentheses\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:09:11.563Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MaxCountChallenge.cs",
-              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\MaxCountChallenge.cs",
-              "RelativeDocumentMoniker": "MaxCountChallenge\\MaxCountChallenge.cs",
-              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\MaxCountChallenge.cs",
-              "RelativeToolTip": "MaxCountChallenge\\MaxCountChallenge.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Title": "IsAnagramChallenge.cs",
+              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\IsAnagramChallenge.cs",
+              "RelativeDocumentMoniker": "IsAnagram\\IsAnagramChallenge.cs",
+              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\IsAnagramChallenge.cs",
+              "RelativeToolTip": "IsAnagram\\IsAnagramChallenge.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:05:43.201Z",
+              "WhenOpened": "2025-03-12T23:39:00.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\Program.cs",
-              "RelativeDocumentMoniker": "MaxCountChallenge\\Program.cs",
-              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\MaxCountChallenge\\Program.cs",
-              "RelativeToolTip": "MaxCountChallenge\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\Program.cs",
+              "RelativeDocumentMoniker": "IsAnagram\\Program.cs",
+              "ToolTip": "C:\\Users\\dti Digital\\Desktop\\Nova pasta\\algorithm-challenges\\IsAnagram\\Program.cs",
+              "RelativeToolTip": "IsAnagram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T22:03:32.018Z",
+              "WhenOpened": "2025-03-12T23:38:33.975Z",
               "EditorCaption": ""
             }
           ]
