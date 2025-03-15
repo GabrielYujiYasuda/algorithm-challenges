@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\containsduplicate\\containsduplicatechallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|solutionrelative:containsduplicate\\containsduplicatechallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E85D99F4-0CDB-4421-8E03-4495A0D4D1AD}|ReverseLinkedList\\ReverseLinkedList.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\reverselinkedlist\\reverselinkedlistchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85D99F4-0CDB-4421-8E03-4495A0D4D1AD}|ReverseLinkedList\\ReverseLinkedList.csproj|solutionrelative:reverselinkedlist\\reverselinkedlistchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F49ECF3E-944A-48AF-AD9B-82BAEEDF5A8D}|ContainsDuplicate\\ContainsDuplicate.csproj|solutionrelative:containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E85D99F4-0CDB-4421-8E03-4495A0D4D1AD}|ReverseLinkedList\\ReverseLinkedList.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\reverselinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85D99F4-0CDB-4421-8E03-4495A0D4D1AD}|ReverseLinkedList\\ReverseLinkedList.csproj|solutionrelative:reverselinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C9B95-01EC-42BC-BBE0-7422AAA1A1C7}|MergeTwoSortedList\\MergeTwoSortedList.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\mergetwosortedlist\\mergetwochallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C9B95-01EC-42BC-BBE0-7422AAA1A1C7}|MergeTwoSortedList\\MergeTwoSortedList.csproj|solutionrelative:mergetwosortedlist\\mergetwochallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C9B95-01EC-42BC-BBE0-7422AAA1A1C7}|MergeTwoSortedList\\MergeTwoSortedList.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\mergetwosortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C9B95-01EC-42BC-BBE0-7422AAA1A1C7}|MergeTwoSortedList\\MergeTwoSortedList.csproj|solutionrelative:mergetwosortedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ContainsDuplicateChallenge.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\ContainsDuplicateChallenge.cs",
-              "RelativeDocumentMoniker": "ContainsDuplicate\\ContainsDuplicateChallenge.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\ContainsDuplicateChallenge.cs",
-              "RelativeToolTip": "ContainsDuplicate\\ContainsDuplicateChallenge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "ReverseLinkedListChallenge.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ReverseLinkedList\\ReverseLinkedListChallenge.cs",
+              "RelativeDocumentMoniker": "ReverseLinkedList\\ReverseLinkedListChallenge.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ReverseLinkedList\\ReverseLinkedListChallenge.cs",
+              "RelativeToolTip": "ReverseLinkedList\\ReverseLinkedListChallenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:56:18.381Z",
+              "WhenOpened": "2025-03-15T15:29:21.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\Program.cs",
-              "RelativeDocumentMoniker": "ContainsDuplicate\\Program.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ContainsDuplicate\\Program.cs",
-              "RelativeToolTip": "ContainsDuplicate\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ReverseLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseLinkedList\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\ReverseLinkedList\\Program.cs",
+              "RelativeToolTip": "ReverseLinkedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T21:56:07.92Z",
+              "WhenOpened": "2025-03-15T15:28:55.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\MergeTwoSortedList\\Program.cs",
+              "RelativeDocumentMoniker": "MergeTwoSortedList\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\MergeTwoSortedList\\Program.cs",
+              "RelativeToolTip": "MergeTwoSortedList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:07:08.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeTwoChallenge.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\MergeTwoSortedList\\MergeTwoChallenge.cs",
+              "RelativeDocumentMoniker": "MergeTwoSortedList\\MergeTwoChallenge.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\MergeTwoSortedList\\MergeTwoChallenge.cs",
+              "RelativeToolTip": "MergeTwoSortedList\\MergeTwoChallenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:07:08.12Z",
               "EditorCaption": ""
             }
           ]
