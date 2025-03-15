@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\bin\Debug\net8.0\HasCycle.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\bin\Debug\net8.0\HasCycle.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\bin\Debug\net8.0\HasCycle.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\bin\Debug\net8.0\HasCycle.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\bin\Debug\net8.0\HasCycle.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\refint\HasCycle.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\HasCycle.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\HasCycle\obj\Debug\net8.0\ref\HasCycle.dll

@@ -1,24 +1,24 @@
-﻿namespace ReverseLinkedList
-{
-	internal class ReverseLinkedListChallenge
-	{
-		public ListNode Execute(ListNode head)
-		{
-			ListNode prev = null;
-			ListNode current = head;
-			ListNode next;
+﻿//namespace ReverseLinkedList
+//{
+//	internal class ReverseLinkedListChallenge
+//	{
+//		public ListNode Execute(ListNode head)
+//		{
+//			ListNode prev = null;
+//			ListNode current = head;
+//			ListNode next;
 
-			while (current is not null)
-			{
-				next = current.next;
+//			while (current is not null)
+//			{
+//				next = current.next;
 
-				current.next = prev;
-				prev = current;
+//				current.next = prev;
+//				prev = current;
 
-				current = next;
-			}
+//				current = next;
+//			}
 
-			return head = prev;
-		}
-	}
-}
+//			return head = prev;
+//		}
+//	}
+//}
