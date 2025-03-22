@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll
