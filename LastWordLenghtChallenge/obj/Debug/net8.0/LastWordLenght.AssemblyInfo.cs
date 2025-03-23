@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LastWordLenght")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74eeb622e6af139707cf9dae290538d6378de7a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21e787d4d8afd99edee867f7d5964839cc768d62")]
 [assembly: System.Reflection.AssemblyProductAttribute("LastWordLenght")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LastWordLenght")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

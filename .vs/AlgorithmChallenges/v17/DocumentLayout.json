@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D020224F-BD67-4EC7-92B6-3CC938530BF7}|BinarySearch\\BinarySearch.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D020224F-BD67-4EC7-92B6-3CC938530BF7}|BinarySearch\\BinarySearch.csproj|solutionrelative:binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\lcp\\longestcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|solutionrelative:lcp\\longestcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\lcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|solutionrelative:lcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 129,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\BinarySearch\\Program.cs",
-              "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\BinarySearch\\Program.cs",
-              "RelativeToolTip": "BinarySearch\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\Program.cs",
+              "RelativeDocumentMoniker": "LCP\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\Program.cs",
+              "RelativeToolTip": "LCP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:05:19.276Z",
+              "WhenOpened": "2025-03-23T15:41:31.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongestCommon.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\LongestCommon.cs",
+              "RelativeDocumentMoniker": "LCP\\LongestCommon.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\LongestCommon.cs",
+              "RelativeToolTip": "LCP\\LongestCommon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:41:08.503Z",
               "EditorCaption": ""
             }
           ]

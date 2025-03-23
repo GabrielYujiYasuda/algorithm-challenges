@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\bin\Debug\net8.0\RomanToInteger.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\bin\Debug\net8.0\RomanToInteger.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\bin\Debug\net8.0\RomanToInteger.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\bin\Debug\net8.0\RomanToInteger.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\bin\Debug\net8.0\RomanToInteger.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\refint\RomanToInteger.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\RomanToInteger.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\RomanToInteger\obj\Debug\net8.0\ref\RomanToInteger.dll
