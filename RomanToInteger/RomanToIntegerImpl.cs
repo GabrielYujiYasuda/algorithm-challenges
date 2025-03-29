@@ -21,7 +21,7 @@
 				{ 'M', 1000 },
 			};
 
-			for (int i = 0; i < s.Length; i++)
+			for (var i = 0; i < s.Length; i++)
 			{
 				if (i < s.Length - 1 && dict[s[i]] < dict[s[i + 1]])
 					totalSum -= dict[s[i]];

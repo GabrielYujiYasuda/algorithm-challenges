@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\bin\Debug\net8.0\LCP.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\bin\Debug\net8.0\LCP.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\bin\Debug\net8.0\LCP.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\bin\Debug\net8.0\LCP.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\bin\Debug\net8.0\LCP.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\refint\LCP.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\LCP.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\LCP\obj\Debug\net8.0\ref\LCP.dll

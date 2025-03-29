@@ -4,9 +4,22 @@
 	{
 		public string Execute(string[] strs)
 		{
-			var stack = new Stack<char>();
+			string res = "";
 
-			return "";
+			for (int i = 0; i < strs[0].Length; i++)
+			{
+				char currentChar = strs[0][i];
+
+				foreach (string s in strs)
+				{
+					if (i >= s.Length || s[i] != currentChar)
+						return res;
+				}
+
+				res += currentChar;
+			}
+
+			return res;
 		}
 	}
 }

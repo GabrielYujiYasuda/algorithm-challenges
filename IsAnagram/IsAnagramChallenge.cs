@@ -12,7 +12,6 @@
 			if (sSize != tSize)
 				return false;
 
-
 			var sArr = s.ToArray();
 			var tArr = t.ToArray();
 
@@ -24,7 +23,6 @@
 				if (sArr[i].Equals(tArr[i]))
 					letterCount++;
 			}
-
 
 			if (letterCount == sArr.Length)
 				return true;
