@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\lcp\\longestcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|solutionrelative:lcp\\longestcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\lcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0}|LCP\\LCP.csproj|solutionrelative:lcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42D6B7C6-45F6-447B-BDD1-003F8A351F94}|FindIndexFirstOccurr\\FindIndexFirstOccurr.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\findindexfirstoccurr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D6B7C6-45F6-447B-BDD1-003F8A351F94}|FindIndexFirstOccurr\\FindIndexFirstOccurr.csproj|solutionrelative:findindexfirstoccurr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LongestCommon.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\LongestCommon.cs",
-              "RelativeDocumentMoniker": "LCP\\LongestCommon.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\LongestCommon.cs",
-              "RelativeToolTip": "LCP\\LongestCommon.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T22:45:03.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\Program.cs",
-              "RelativeDocumentMoniker": "LCP\\Program.cs",
-              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\LCP\\Program.cs",
-              "RelativeToolTip": "LCP\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\FindIndexFirstOccurr\\Program.cs",
+              "RelativeDocumentMoniker": "FindIndexFirstOccurr\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\FindIndexFirstOccurr\\Program.cs",
+              "RelativeToolTip": "FindIndexFirstOccurr\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:41:31.356Z",
+              "WhenOpened": "2025-03-30T16:45:27.186Z",
               "EditorCaption": ""
             }
           ]

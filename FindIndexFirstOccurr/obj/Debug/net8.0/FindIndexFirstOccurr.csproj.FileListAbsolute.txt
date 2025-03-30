@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\bin\Debug\net8.0\FindIndexFirstOccurr.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\bin\Debug\net8.0\FindIndexFirstOccurr.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\bin\Debug\net8.0\FindIndexFirstOccurr.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\bin\Debug\net8.0\FindIndexFirstOccurr.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\bin\Debug\net8.0\FindIndexFirstOccurr.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\refint\FindIndexFirstOccurr.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\FindIndexFirstOccurr.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\FindIndexFirstOccurr\obj\Debug\net8.0\ref\FindIndexFirstOccurr.dll
