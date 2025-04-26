@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaxCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf0d57186854b13b057b2f56933e680f00016639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a444da376d6e3589043136351b09cc0382a1e012")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaxCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaxCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

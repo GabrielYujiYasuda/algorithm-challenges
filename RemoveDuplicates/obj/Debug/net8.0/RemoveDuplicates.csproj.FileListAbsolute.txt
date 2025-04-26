@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\bin\Debug\net8.0\RemoveDuplicates.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\refint\RemoveDuplicates.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\RemoveDuplicates.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\RemoveDuplicates\obj\Debug\net8.0\ref\RemoveDuplicates.dll

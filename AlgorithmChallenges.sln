@@ -65,7 +65,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LCP", "LCP\LCP.csproj", "{D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FindIndexFirstOccurrenceChallenge", "FindIndexFirstOccurrenceChallenge", "{8B88BF3A-AD02-47DD-8785-8DC09DDAB6EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindIndexFirstOccurr", "FindIndexFirstOccurr\FindIndexFirstOccurr.csproj", "{42D6B7C6-45F6-447B-BDD1-003F8A351F94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindIndexFirstOccurr", "FindIndexFirstOccurr\FindIndexFirstOccurr.csproj", "{42D6B7C6-45F6-447B-BDD1-003F8A351F94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RemoveDuplicatesChallenge", "RemoveDuplicatesChallenge", "{F8CADFA3-F39D-4ED0-9B1D-A55A4E2DB7FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicates", "RemoveDuplicates\RemoveDuplicates.csproj", "{6B185BD3-C733-4699-B66D-9A43BC4F750F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +137,10 @@ Global
 		{42D6B7C6-45F6-447B-BDD1-003F8A351F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D6B7C6-45F6-447B-BDD1-003F8A351F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D6B7C6-45F6-447B-BDD1-003F8A351F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B185BD3-C733-4699-B66D-9A43BC4F750F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B185BD3-C733-4699-B66D-9A43BC4F750F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B185BD3-C733-4699-B66D-9A43BC4F750F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B185BD3-C733-4699-B66D-9A43BC4F750F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -168,6 +176,8 @@ Global
 		{DF90BD04-FAB7-4E10-A9C4-0EEFF644DCA0} = {8FDDA871-4C58-4A8D-99FF-03478002AE84}
 		{8B88BF3A-AD02-47DD-8785-8DC09DDAB6EB} = {4FB92183-185B-4E3F-9BD1-6429A5F07F21}
 		{42D6B7C6-45F6-447B-BDD1-003F8A351F94} = {8B88BF3A-AD02-47DD-8785-8DC09DDAB6EB}
+		{F8CADFA3-F39D-4ED0-9B1D-A55A4E2DB7FD} = {4FB92183-185B-4E3F-9BD1-6429A5F07F21}
+		{6B185BD3-C733-4699-B66D-9A43BC4F750F} = {F8CADFA3-F39D-4ED0-9B1D-A55A4E2DB7FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E1819A1-42C2-4CB6-B3A8-9DDAFEB7954E}
