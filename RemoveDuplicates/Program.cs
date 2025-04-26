@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-internal class Program
+﻿internal class Program
 {
 	private static void Main(string[] args)
 	{
@@ -12,17 +10,18 @@ internal class Program
 
 	public static int RemoveDuplicates(int[] nums)
 	{
-		for (int i = 0; i < nums.Length; i++)
+		var l = 1;
+
+		for (int r = 1; r < nums.Length; r++)
 		{
-			for (int j = 0; j < nums.Length; j++)
+			if (nums[r] != nums[r - 1])
 			{
-				if (nums[i] == nums[j] && j - 1 < nums.Length)
-				{
-					nums[j] = nums[j + 1];
-				}
+				//new valuenums
+				nums[l] = nums[r];
+				l++;
 			}
 		}
 
-		return 1;
+		return l;
 	}
 }
