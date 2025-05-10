@@ -1,0 +1,15 @@
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.AssemblyInfoInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.AssemblyInfo.cs
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.csproj.CoreCompileInputs.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.sourcelink.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\bin\Debug\net8.0\BestTimeToBuyStock.exe
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\bin\Debug\net8.0\BestTimeToBuyStock.deps.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\bin\Debug\net8.0\BestTimeToBuyStock.runtimeconfig.json
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\bin\Debug\net8.0\BestTimeToBuyStock.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\bin\Debug\net8.0\BestTimeToBuyStock.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\refint\BestTimeToBuyStock.dll
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.pdb
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\BestTimeToBuyStock.genruntimeconfig.cache
+C:\dev\algorithm-challenges\AlgorithmChallenges\BestTimeToBuyStock\obj\Debug\net8.0\ref\BestTimeToBuyStock.dll

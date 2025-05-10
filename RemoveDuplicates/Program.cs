@@ -16,7 +16,7 @@
 		{
 			if (nums[r] != nums[r - 1])
 			{
-				//new valuenums
+				//new value
 				nums[l] = nums[r];
 				l++;
 			}
