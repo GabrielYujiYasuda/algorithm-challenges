@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{26383147-BE1E-4222-8D0F-1636230F88DA}|IsSameTree\\IsSameTree.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\issametree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26383147-BE1E-4222-8D0F-1636230F88DA}|IsSameTree\\IsSameTree.csproj|solutionrelative:issametree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F0617E-51D0-47DD-B8D1-2436E1D9E80D}|InvertBinaryTree\\InvertBinaryTree.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\invertbinarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F0617E-51D0-47DD-B8D1-2436E1D9E80D}|InvertBinaryTree\\InvertBinaryTree.csproj|solutionrelative:invertbinarytree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\isanagram\\isanagramchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|solutionrelative:isanagram\\isanagramchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\isanagram\\isanagram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1F2F990-8ED4-440A-BE53-41CE786CA44E}|IsAnagram\\IsAnagram.csproj|solutionrelative:isanagram\\isanagram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D812522C-430F-48DC-B935-F9586B2A31F3}|BestTimeToBuyStock\\BestTimeToBuyStock.csproj|c:\\dev\\algorithm-challenges\\algorithmchallenges\\besttimetobuystock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D812522C-430F-48DC-B935-F9586B2A31F3}|BestTimeToBuyStock\\BestTimeToBuyStock.csproj|solutionrelative:besttimetobuystock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\IsSameTree\\Program.cs",
+              "RelativeDocumentMoniker": "IsSameTree\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\IsSameTree\\Program.cs",
+              "RelativeToolTip": "IsSameTree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T20:05:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IsAnagramChallenge.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\IsAnagram\\IsAnagramChallenge.cs",
+              "RelativeDocumentMoniker": "IsAnagram\\IsAnagramChallenge.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\IsAnagram\\IsAnagramChallenge.cs",
+              "RelativeToolTip": "IsAnagram\\IsAnagramChallenge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:28:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsAnagram",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\IsAnagram\\IsAnagram.csproj",
+              "RelativeDocumentMoniker": "IsAnagram\\IsAnagram.csproj",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\IsAnagram\\IsAnagram.csproj",
+              "RelativeToolTip": "IsAnagram\\IsAnagram.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T19:28:10.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\InvertBinaryTree\\Program.cs",
+              "RelativeDocumentMoniker": "InvertBinaryTree\\Program.cs",
+              "ToolTip": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\InvertBinaryTree\\Program.cs",
+              "RelativeToolTip": "InvertBinaryTree\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:11:10.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\algorithm-challenges\\AlgorithmChallenges\\BestTimeToBuyStock\\Program.cs",
               "RelativeDocumentMoniker": "BestTimeToBuyStock\\Program.cs",
